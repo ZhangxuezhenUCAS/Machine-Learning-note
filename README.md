@@ -1,1 +1,4 @@
-# <Machine Learning> note
+# <Machine Learning> 西瓜书打卡活动
+  已完成task1：针对第一章绪论和第三章线性模型的学习
+  稍后会上传关于岭回归等内容的学习笔记
+  
